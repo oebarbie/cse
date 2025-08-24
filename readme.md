@@ -1,0 +1,3 @@
+- intro to computer science and engineering
+- c language notes from ibc25
+- 9.5 / 10 on the exam :)
